@@ -4,7 +4,7 @@
 
 
 ### Context
-A simple practice project built using python and flask to showcase a working model(CRUD operations) of a backend server.
+A simple practice project built using **Python** and **Flask** to showcase a working model(CRUD operations) of a backend server.
 
 
 ### Dependencies
@@ -35,3 +35,8 @@ pip install <package-name> <package-name> . . .
 ### API Endpoint:
 
 > ​http://127.0.0.1:5000/users
+
+### Tools :
+![Python Logo](python.svg)
+
+![Flask Logo](flask.svg)

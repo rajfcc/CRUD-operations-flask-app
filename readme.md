@@ -37,6 +37,6 @@ pip install <package-name> <package-name> . . .
 > ​http://127.0.0.1:5000/users
 
 ### Tools :
-![Python Logo](python.svg)
+![Python Logo](py.png)
 
-![Flask Logo](flask.svg)
+![Flask Logo](Flask.png)
